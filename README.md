@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building beau
 
 ## 🚀 Tech Stack
 
-- 👨‍💻 **Languages:** Dart, Python, Java, C, C++
-- 📱 **Frameworks:** Flutter, React, Angular
+- 👨‍💻 **Languages:** Dart, Python, JavaScript, Java, C, C++
+- 📱 **Frameworks:** Flutter, Node.js, React, Angular
 
 ## 🧠 Fun Facts
 
