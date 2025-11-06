@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Puneet!
+# 👋 Hi there, I'm Pushpender (Puneet)!
 
 🎯 **Software Developer | Flutter Enthusiast**
 
