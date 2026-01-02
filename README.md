@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who loves buil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushpender-singh-kumar-0377b01b1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat)](https://puneet-739.github.io/hello-universe/)
+[![Email](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:pushpender.singh.kumar@gmail.com)
 
 
 ---
